@@ -8,8 +8,6 @@ Live at https://lobsterpay.ca
 - Client management, recurring billing, quotes and invoices (PDF)
 - Multi-step KYC/KYB onboarding, email-based MFA, admin review console
 
-**Stack**
 Python (FastAPI), PostgreSQL, Redis, Docker Compose, Nginx, Postfix, Cloudflare
 
-**Status**
 Working product in beta. Source code is private.
