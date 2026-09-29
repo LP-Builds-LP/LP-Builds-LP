@@ -3,11 +3,16 @@
 Interac e-Transfer payment platform for small businesses in Atlantic Canada.
 Live at https://lobsterpay.ca
 
-**What it does**
+## What it does
+
 - Payment links with automatic Interac e-Transfer confirmation
 - Client management, recurring billing, quotes and invoices (PDF)
 - Multi-step KYC/KYB onboarding, email-based MFA, admin review console
 
+## Stack
+
 Python (FastAPI), PostgreSQL, Redis, Docker Compose, Nginx, Postfix, Cloudflare
+
+## Status
 
 Working product in beta. Source code is private.
